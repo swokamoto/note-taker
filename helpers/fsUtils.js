@@ -1,3 +1,5 @@
+// FROM THE MINI CHALLENGE
+
 const fs = require('fs');
 const util = require('util');
 
